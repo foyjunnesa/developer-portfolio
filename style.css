@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%
+}
+h1{
+    50px;
+    margin-left: 40px;
+}
+.violet-color{
+  color: violet;
+}
+ section{
+     display: flex;
+ }
+   .half-width{
+       50%;
+       padding-left:2%;
+   }
+   .half-width img{
+       width: 75%;
+   }
+   .link-button{
+       text-decoration: none;
+       background-image:linear-gradient(violet,rgb(11, 177, 86));
+       padding: 5px 30px;
+       font-weight: 700;
+       border-radius: 5px;
+   }
+   .top-banner{
+       background-image: url(images/top-banner.png);
+       background-repeat: no-repeat;
+   }
